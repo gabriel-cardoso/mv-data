@@ -23,6 +23,11 @@
 			"photo": "img/shrodingcat.png",
 			"name": "Schrödingcat",
 			"age": "-3"
+		},
+		{
+			"photo": "https://cdn.rawgit.com/gabriel-cardoso/mv-data/71cd5d7bc607e3179bf5771570ea810388efae16/images/1507206560922844450540.jpg",
+			"name": "Garfield",
+			"age": "42"
 		}
 	]
 }
